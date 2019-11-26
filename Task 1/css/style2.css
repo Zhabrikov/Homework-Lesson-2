@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+}
+table.main{
+    width: 100%;
+    height: 100vh;
+}
+.blocktable{
+    width: 100%;
+    height: 100%;
+    border-spacing: 1vh 1vh;
+}
+.block1main{    
+    height: 10vh;
+}
+.block2main{  
+    height: 40vh;
+}
+.block3main{   
+    height: 10vh;
+}
+.block4main{    
+    height: 25vh;
+}
+td.block1{
+    background: rgb(255, 153, 0);
+}
+td.block2{
+    background: rgb(229, 255, 0);
+}
+td.block3{
+    background: rgb(0, 89, 255);
+}
+td.block4{
+    background: rgb(168, 173, 182);
+}

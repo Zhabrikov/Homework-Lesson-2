@@ -1,0 +1,36 @@
+div.main{
+    position: absolute;
+    border: solid black;
+    height: 400px;
+    width: 400px;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    margin: auto;
+}
+div.blockred{
+    position: absolute;
+    height: 250px;
+    width: 250px;
+    background: red;
+    left: 0;
+    top: 0;
+}
+div.blockblue{
+    position: absolute;
+    height: 250px;
+    width: 250px;
+    background: blue;  
+    right: 0;
+    bottom: 0;    
+}
+
+div.blockgreen{
+    position: absolute;
+    height: 250px;
+    width: 250px;
+    background: green;  
+    top: 75px;
+    left: 75px;   
+}

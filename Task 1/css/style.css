@@ -1,0 +1,70 @@
+body{
+    margin: 0;
+}
+
+div.main{
+    height: 100vh;
+}
+
+.block1main,.block2main,.block3main{
+    padding-bottom: 4vh;
+}
+
+div.block1main{
+    padding-top: 1vh;
+    height: 10vh;
+}
+
+div.block2main{
+    height: 40vh;
+}
+
+div.block3main{
+    height: 14vh;
+}
+
+div.block4main{
+    height: 22vh;
+}
+
+div.block1{
+    height: 100%;
+    width: 49%;
+    background: rgb(255, 153, 0);
+    float: left;
+    margin-right: 2%;
+}
+
+div.block1:last-child{
+    margin-right: 0;
+}
+
+div.block2{
+    height: 100%;
+    width: 100%;
+    background: rgb(229, 255, 0);    
+}
+
+div.block3{
+    height: 100%;
+    width: 32%;
+    background: rgb(0, 89, 255);
+    float: left;   
+    margin-right: 2%;
+}
+
+div.block3:last-child{
+    margin-right: 0;
+}
+
+div.block4{
+    height: 100%;
+    width: 23.5%;
+    background: rgb(168, 173, 182);
+    float: left;
+    margin-right: 2%;
+}
+
+div.block4:last-child{
+    margin-right: 0;
+}
